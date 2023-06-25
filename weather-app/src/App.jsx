@@ -6,10 +6,12 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1>HELLLO</h1>
-        <h2>samaneh</h2>
-      </div>
+      <div></div>
+      <footer>
+        <a href="https://github.com/samane-92/weather-app" target="_blank">Open-sourced app on GitHub</a>{" "}
+        coded by
+        <a href="https://github.com/samane-92" target="_blank"> Samaneh R.</a>
+      </footer>
     </>
   );
 }
